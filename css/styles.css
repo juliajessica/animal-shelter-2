@@ -1,0 +1,36 @@
+body {
+  margin: 60px;
+  padding: 10px;
+  border: 4px;
+  background-color: #d6d2b8;
+}
+
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  font-size: 46px;
+  font-style: oblique;
+}
+
+h2 {
+  color: #eae9e5;
+  text-shadow: 3px 3px 1px #42413b;
+  text-align: center;
+  font-size: 30px;
+}
+
+.column {
+  width: 30%;
+  float: left;
+  padding: 1%;
+}
+
+img {
+  height: auto;
+  width: 100%;
+}
+
+.column strong {
+  color: #3f8caf;
+  font-size: 18px;
+}
