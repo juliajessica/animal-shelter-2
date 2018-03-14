@@ -8,19 +8,21 @@ body {
 h1 {
   text-align: center;
   font-family: fantasy;
-  font-size: 46px;
+  font-size: 50px;
   font-style: oblique;
+  margin: -10px;
 }
 
 h2 {
   color: #eae9e5;
   text-shadow: 3px 3px 1px #42413b;
   text-align: center;
-  font-size: 30px;
+  font-size: 45px;
 }
 
 .column {
   width: 30%;
+  height: 50%;
   float: left;
   padding: 1%;
 }
@@ -33,4 +35,24 @@ img {
 .column strong {
   color: #3f8caf;
   font-size: 18px;
+}
+
+.profile {
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.column hr {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 1.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
+.column p {
+  font-size: 19px;
 }
