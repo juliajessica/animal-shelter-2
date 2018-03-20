@@ -1,0 +1,11 @@
+$(function(){
+  $(".button-show-1").click(function(){
+    $(".text-show").fadeToggle();
+  });
+  $(".button-show-2").click(function(){
+    $(".text-show-2").slideToggle();
+  });
+  $(".button-show-3").click(function(){
+    $(".text-show-3").slideToggle();
+  });
+});

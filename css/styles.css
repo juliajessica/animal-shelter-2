@@ -56,3 +56,15 @@ img {
 .column p {
   font-size: 19px;
 }
+
+.text-show {
+  display: none;
+}
+
+.text-show-2 {
+  display: none;
+}
+
+.text-show-3 {
+  display: none;
+}
